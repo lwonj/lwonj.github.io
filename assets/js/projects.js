@@ -11,7 +11,7 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/face_recogn.png',
+            image: 'assets../images/face_recogn.png',
             link: 'https://github.com/lwonj/Face_Recognition.git',
             title: '얼굴인식 도어락(팀)',
             technologies: ['Java', 'Python', 'Firebase'],
@@ -19,7 +19,7 @@ let render_projects = (slug) => {
             categories: ['featured']
         },
         {
-            image: 'assets/images/health_Care.png',
+            image: 'assets../images/health_Care.png',
             link: 'https://github.com/lwonj/Health_Helper.git',
             title: '건강도우미 APP(팀)',
             technologies: ['Java', 'Kotlin', 'C'],
@@ -27,7 +27,7 @@ let render_projects = (slug) => {
             categories: ['featured']
         },
         {
-            image: 'assets/images/park.png',
+            image: 'assets../images/park.png',
             link: 'https://github.com/lwonj/Find_Parking.git',
             title: '주차장 찾기 도우미 APP(개인)',
             technologies: ['Java'],
