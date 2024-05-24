@@ -1,0 +1,20 @@
+baseurl: ""
+url: "https://lwonj.github.io/"
+
+title:  이원준
+description: Back-End 개발자
+site_title: '이원준의 포트폴리오'
+
+# Build settings
+markdown: kramdown
+exclude: [vendor/ruby]
+
+# Personalization
+github_username: lwonj
+email: bryan.lee.0314@gmail.com
+
+# absolute or relative
+profile_picture: assets/images/pp2.jpg
+
+# Google Analytics ID
+google_analytics: 
