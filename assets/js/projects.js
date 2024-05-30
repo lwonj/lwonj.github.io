@@ -22,7 +22,7 @@ let render_projects = (slug) => {
             image: 'assets/images/health_Care.PNG',
             link: 'https://github.com/lwonj/Health_Helper.git',
             title: '건강도우미 APP(팀)',
-            technologies: ['Java', 'Kotlin', 'C'],
+            technologies: ['Java', 'Kotlin'],
             description: "대학교 시절 2021년에 제작한 프로젝트입니다. 건강 관리 도우미 Application이며 회원가입 및 로그인, 만보기, 간단한 운동 설명, 달력기능을 구현하였습니다.",
             categories: ['featured']
         },
